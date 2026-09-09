@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Project Quality Tracker",
+  "description": "Streamline your client implementation process with real-time tracking, interactive status updates, and automated alerts for project milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
